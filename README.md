@@ -2,8 +2,7 @@
 - 👀 I’m interested in AI, ML, mathematics, electronics, and space tech.
 - 🌱 I’m currently learning C language.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 Reach me ... https://www.linkedin.com/in/satyam-gupta-771b95252/
-               ... sg940@snu.edu.in
+- 📫 Reach me ... https://www.linkedin.com/in/satyam-gupta-771b95252/ ; sg940@snu.edu.in
 - 😄 Pronouns: He/His/Him
 
 <!---
